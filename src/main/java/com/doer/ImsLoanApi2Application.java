@@ -1,0 +1,13 @@
+package com.doer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ImsLoanApi2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ImsLoanApi2Application.class, args);
+    }
+
+}
